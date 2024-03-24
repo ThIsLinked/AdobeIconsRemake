@@ -1,4 +1,4 @@
-# Adobe Icons Remake
+# Adobe Icons Remake (Canary)
 <img id="banner" align="center" src="README_banner.webp" alt="Banner image" />
 Adobe product icons are in their second breath – smoother and more aesthetically pleasing.
 
