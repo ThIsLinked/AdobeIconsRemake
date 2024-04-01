@@ -9,6 +9,7 @@ Done icons:
 * Animate
 * Audition
 * Character Animator
+* Creative Cloud
 * Express
 * Fonts
 * Fresco
